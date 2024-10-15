@@ -63,7 +63,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AO_strength: 0.77
-    - _Metal_strength: 0.08
+    - _Metal_strength: 0.79
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
