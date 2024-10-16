@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 29102435}
   - component: {fileID: 29102434}
   m_Layer: 0
-  m_Name: Sphere (7)
+  m_Name: Shade9Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -457,7 +457,7 @@ GameObject:
   - component: {fileID: 345649207}
   - component: {fileID: 345649206}
   m_Layer: 0
-  m_Name: Sphere (2)
+  m_Name: Shade5Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -565,7 +565,7 @@ GameObject:
   - component: {fileID: 488500919}
   - component: {fileID: 488500918}
   m_Layer: 0
-  m_Name: Sphere (4)
+  m_Name: Shade3Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1228,7 +1228,7 @@ GameObject:
   - component: {fileID: 808436521}
   - component: {fileID: 808436520}
   m_Layer: 0
-  m_Name: Sphere (1)
+  m_Name: Shade6Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1336,7 +1336,7 @@ GameObject:
   - component: {fileID: 920118957}
   - component: {fileID: 920118956}
   m_Layer: 0
-  m_Name: Shade9Cube (1)
+  m_Name: 'Shade10Cube '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1444,7 +1444,7 @@ GameObject:
   - component: {fileID: 936540275}
   - component: {fileID: 936540274}
   m_Layer: 0
-  m_Name: Sphere (5)
+  m_Name: Shade2Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1552,7 +1552,7 @@ GameObject:
   - component: {fileID: 955700556}
   - component: {fileID: 955700555}
   m_Layer: 0
-  m_Name: Sphere (6)
+  m_Name: Shade8Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1905,7 +1905,7 @@ GameObject:
   - component: {fileID: 1062562233}
   - component: {fileID: 1062562232}
   m_Layer: 0
-  m_Name: Shade9 (1)
+  m_Name: Shade10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2014,7 +2014,7 @@ GameObject:
   - component: {fileID: 1110830035}
   - component: {fileID: 1110830034}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Shade7Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2338,7 +2338,7 @@ GameObject:
   - component: {fileID: 1356497916}
   - component: {fileID: 1356497915}
   m_Layer: 0
-  m_Name: Sphere (3)
+  m_Name: Shade4Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2555,7 +2555,7 @@ GameObject:
   - component: {fileID: 1473730645}
   - component: {fileID: 1473730644}
   m_Layer: 0
-  m_Name: Sphere (8)
+  m_Name: Shade10Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3418,29 +3418,29 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 1425106626}
   - {fileID: 137949086}
-  - {fileID: 1474706799}
-  - {fileID: 678042315}
-  - {fileID: 1856980736}
-  - {fileID: 320817449}
-  - {fileID: 680692650}
-  - {fileID: 1709469034}
-  - {fileID: 1653021245}
-  - {fileID: 1062562235}
-  - {fileID: 1062430275}
-  - {fileID: 692814127}
-  - {fileID: 2075686726}
-  - {fileID: 680818827}
-  - {fileID: 1960090779}
-  - {fileID: 1973051377}
-  - {fileID: 1294165931}
-  - {fileID: 920118959}
   - {fileID: 1287286174}
-  - {fileID: 1110830037}
-  - {fileID: 955700558}
-  - {fileID: 29102437}
-  - {fileID: 1473730647}
-  - {fileID: 808436523}
-  - {fileID: 345649209}
-  - {fileID: 1356497918}
-  - {fileID: 488500921}
   - {fileID: 936540277}
+  - {fileID: 1474706799}
+  - {fileID: 1062430275}
+  - {fileID: 488500921}
+  - {fileID: 678042315}
+  - {fileID: 692814127}
+  - {fileID: 1356497918}
+  - {fileID: 1856980736}
+  - {fileID: 2075686726}
+  - {fileID: 345649209}
+  - {fileID: 320817449}
+  - {fileID: 680818827}
+  - {fileID: 808436523}
+  - {fileID: 680692650}
+  - {fileID: 1960090779}
+  - {fileID: 1110830037}
+  - {fileID: 1709469034}
+  - {fileID: 1973051377}
+  - {fileID: 955700558}
+  - {fileID: 1653021245}
+  - {fileID: 1294165931}
+  - {fileID: 29102437}
+  - {fileID: 1062562235}
+  - {fileID: 920118959}
+  - {fileID: 1473730647}
