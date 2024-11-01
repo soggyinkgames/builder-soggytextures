@@ -89,12 +89,12 @@ Shader "Unlit/SH_Window"
                 col += trail; // visualise trail drops
                 col += drop; //8 see drop
 
-                col *= 0; col.rg += dropPos;
-                float2 offs = drop* dropPos + trail;
+                // col *= 0; col.rg += dropPos;
+                float2 offs = drop* dropPos + trail * trailPos;
                 if(gv.x>.48 || gv.y>.49) col = float4(1,0,0,1); //6 make red box outline on all boxes
                 
                 // col *= 0; col += N21(id); // col.rg = id* .1;
-                //col = tex2D(_MainTex, i.uv + + offs * _Distortion);
+                col = tex2D(_MainTex, i.uv + + offs * _Distortion); //todo: keep distorion negative on the exposed range variable so it flips the sky on the drop yay
                 return col;
             }
             ENDCG
