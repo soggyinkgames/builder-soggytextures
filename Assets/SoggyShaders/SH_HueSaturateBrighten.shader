@@ -5,8 +5,8 @@ Shader "Unlit/SH_HueSaturateBrighten"
         _MainTex ("Texture", 2D) = "white" {}
         _HueShiftTexture ("HueShiftTexture", 2D) = "white" {}
         _HueShift ("HueShift", Range(0, 10)) = 0
-        _Saturation ("Saturation" Range(0, 5)) = 0
-        _Brightness ("Brightness" Range(-1, 1)) = 0
+        _Saturation ("Saturation", Range(0, 5)) = 0
+        _Brightness ("Brightness", Range(-1, 1)) = 0
     }
     SubShader
     {
