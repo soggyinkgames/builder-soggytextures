@@ -16,6 +16,14 @@
         "com.unity.textmeshpro": "4.0.2"
       }
     },
+    "com.soggyinkgames.package-soggysolutions": {
+      "version": "file:com.soggyinkgames.package-soggysolutions",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.[CHANGETHISPACKAGENAME]": "[version.number.here]"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.15",
       "depth": 1,
