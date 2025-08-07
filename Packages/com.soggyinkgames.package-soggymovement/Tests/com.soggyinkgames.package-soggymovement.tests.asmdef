@@ -1,0 +1,18 @@
+{
+    "name": "com.soggyinkgames.package-soggymovement.tests",
+    "rootNamespace": "",
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "references": [
+        "com.soggyinkgames.package-soggymovement.runtime",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ]
+}

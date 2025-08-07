@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.soggyinkgames.package-soggymovement": {
+      "version": "file:com.soggyinkgames.package-soggymovement",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.[CHANGETHISPACKAGENAME]": "[version.number.here]"
+      }
+    },
     "com.soggyinkgames.package-soggyshaders": {
       "version": "file:C:/Users/Anai Araya/SOGGYINKGAMES/GAMES/PACKAGES/package-soggytextures",
       "depth": 0,
